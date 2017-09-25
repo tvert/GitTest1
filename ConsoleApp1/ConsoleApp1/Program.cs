@@ -18,6 +18,8 @@ namespace ConsoleApp1
 
             // Hello Master #VS.5
             Feature1 f = new Feature1();
+
+            // Code amemded #9 in GitHub
         }
     }
 }
