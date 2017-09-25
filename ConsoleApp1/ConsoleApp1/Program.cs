@@ -17,6 +17,7 @@ namespace ConsoleApp1
             // Code amended #VS.4 in VS
 
             // Hello Master #VS.5
+            Feature1 f = new Feature1();
         }
     }
 }
